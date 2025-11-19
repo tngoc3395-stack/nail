@@ -1,0 +1,6 @@
+EmployeeID      FirstName      LastName        DOB         Gender        Address        City       Zip Code       State       Salary       Phone        Email
+1001             John           Tran         11/20/1962    Male      621 Lester Ave    Clovis      93619           CA         21000     (916)588-7564   tngoc3395@gmail.com
+1002             Nancy         Nguyen        11/30/1960    Female    621 Lester Ave    Clovis      93619           CA         22000     (916)588-7569   ngannguyenthi1960@gmail.com
+1003             Hoai          Dang          12/12/1982    Male      621 Lester Ave    Clovis      93619           CA         25000     (916)793-0036    hoaidang8282@gmail.com
+1004             Au            Cao           12/25/1981     Female   853 Bush Ave      Clovis      93619           CA         25000     (559)341-5045    au.cao1981@gmail.com
+1005             Hoa           Tran          12/02/1977    Male      853 Bush Ave      Clovis      93611           CA         25000     (559)341-5424    phung.tran02121977@gmail.com
